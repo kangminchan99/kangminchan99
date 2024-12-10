@@ -1,4 +1,5 @@
-![snake gif](https://raw.githubusercontent.com/kangminchan99/kangminchan99/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/kangminchan99/kangminchan99/blob/output/github-contribution-grid-snake.svg"/>
+
 
 
 
