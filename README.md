@@ -1,4 +1,5 @@
-![먹방하는 핑구](https://github.com/user-attachments/assets/5dec3ee8-22b0-4bc0-830a-28d9a6da559
+![화난 핑구](https://github.com/user-attachments/assets/b54ea7f3-68d0-4cc5-adff-cedd59eec62f)
+
 
 <img src="https://github.com/kangminchan99/kangminchan99/blob/output/github-contribution-grid-snake.svg"/>
 
