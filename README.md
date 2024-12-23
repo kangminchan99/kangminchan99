@@ -1,8 +1,9 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/b54ea7f3-68d0-4cc5-adff-cedd59eec62f" alt="화난 핑구 1" style="width: 50%;"/>
-  <img src="https://github.com/user-attachments/assets/b54ea7f3-68d0-4cc5-adff-cedd59eec62f" alt="화난 핑구 2" style="width: 50%;"/>
-</div>
-
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b54ea7f3-68d0-4cc5-adff-cedd59eec62f" alt="화난 핑구 1" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/b54ea7f3-68d0-4cc5-adff-cedd59eec62f" alt="화난 핑구 2" width="100%"></td>
+  </tr>
+</table>
 
 <img src="https://github.com/kangminchan99/kangminchan99/blob/output/github-contribution-grid-snake.svg"/>
 
